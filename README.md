@@ -40,6 +40,11 @@ Here's the sample solution for the question:
 {{"type": "VARIABLE", "name": "INPUT"}}
 </input>
 
+Here's the student current code file:
+<student_code>
+{{"type": "VARIABLE", "name": "STUDENT_FILE_CONTENT"}}
+</student_code>
+
 Answer any questions the student has about this assignment without giving away solution directly.
 Respond only with suggestions to help them make progress by themselves.
 ```
@@ -64,6 +69,11 @@ Here's the sample solution for the question:
 <input>
 {{"type": "VARIABLE", "name": "INPUT"}}
 </input>
+
+Here's the student current code file:
+<student_code>
+{{"type": "VARIABLE", "name": "STUDENT_FILE_CONTENT"}}
+</student_code>
 
 Answer any questions the student has about this assignment without giving away solution directly.
 Respond only with suggestions to help them make progress by themselves.
@@ -90,6 +100,11 @@ Here's the sample solution for the question:
 <input>
 {{"type": "VARIABLE", "name": "INPUT"}}
 </input>
+
+Here's the student current code file:
+<student_code>
+{{"type": "VARIABLE", "name": "STUDENT_FILE_CONTENT"}}
+</student_code>
 
 Answer any questions the student has about this assignment without giving away solution directly.
 Respond only with suggestions to help them make progress by themselves.
