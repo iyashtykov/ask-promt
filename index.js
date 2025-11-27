@@ -22,7 +22,7 @@
       userPrompt: userPrompt,
       vars: {
         "GUIDE_CONTENT": context.guidesPage.content,
-        "STUDENT_FILE_CONTENT": context.files[0].content,
+        "STUDENT_FILE_CONTENT": context?.files[0]?.content ?? "",
         "INPUT": input
       }
     })
